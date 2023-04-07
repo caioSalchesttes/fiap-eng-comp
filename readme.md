@@ -1,4 +1,4 @@
-#EQUIPE - SMARTFACE
+# EQUIPE - SMARTFACE
 
 - Bernardo Zakur C. Santos RM 89116
 - Caio Oliveira Salchesttes RM 88227
