@@ -1,3 +1,11 @@
+#EQUIPE - SMARTFACE
+
+- Bernardo Zakur C. Santos RM 89116
+- Caio Oliveira Salchesttes RM 88227
+- Pedro Henrique Carlini de O Ribeiro RM 88783
+- Gabriel Antonio Do Rego RM 88420
+- Ricardo Sampaio Fogaca RM 86603
+- Sthefanie Aiko Yoshicava Dutra RM 87493
 
 # Sistema de cadastro e vendas
 Este código é um exemplo de um sistema de cadastro e vendas construído com a biblioteca Flask do Python. O sistema permite cadastrar clientes e produtos, ver os dados de um cliente ou produto específico, visualizar todos os clientes e produtos cadastrados, efetuar vendas e atualizar dados de um cliente ou produto específico.
